@@ -1,2 +1,2 @@
 # simple-quote-page1
-prosta strona
+prosta strona z cytatem

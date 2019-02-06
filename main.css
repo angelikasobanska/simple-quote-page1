@@ -1,0 +1,22 @@
+*
+{
+  box-sizing: border-box;
+}
+
+html,
+body
+{
+  margin:0;
+  padding:0;
+  font-size:100%;
+}
+
+.page
+{
+  width:100vw;
+  height:100vh;
+  background: url(assets/freedom.jpg) no-repeat center center fixed;
+  background-size: cover;
+  
+}
+
